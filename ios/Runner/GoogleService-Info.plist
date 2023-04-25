@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>465078550816-ekvctq82j7lt8re6fvug6h2ac7g0i07f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.465078550816-ekvctq82j7lt8re6fvug6h2ac7g0i07f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGjViOJJjL0HcsyYg57SCNrGSx5Myu6wk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>465078550816</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appGreenWaste</string>
+	<key>PROJECT_ID</key>
+	<string>green-waste-1d4dc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>green-waste-1d4dc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:465078550816:ios:295a5663bf29511699d745</string>
+	<key>DATABASE_URL</key>
+	<string>https://green-waste-1d4dc-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

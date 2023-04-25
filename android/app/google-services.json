@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465078550816",
+    "firebase_url": "https://green-waste-1d4dc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "green-waste-1d4dc",
+    "storage_bucket": "green-waste-1d4dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465078550816:android:1fa765a20e948a7c99d745",
+        "android_client_info": {
+          "package_name": "com.example.app_green_waste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465078550816-gia88jnmm5kmgp1h2thk8ivqur14pv66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ZVMZLTYB_lnW3WYmG0feuc4OLMweS_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465078550816-gia88jnmm5kmgp1h2thk8ivqur14pv66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465078550816-ekvctq82j7lt8re6fvug6h2ac7g0i07f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appGreenWaste"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
